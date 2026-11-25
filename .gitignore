@@ -1,0 +1,28 @@
+# Maven
+target/
+
+# NetBeans
+nbproject/private/
+build/
+dist/
+
+# IntelliJ
+.idea/
+*.iml
+
+# Eclipse
+.classpath
+.project
+.settings/
+
+# Logs
+*.log
+
+# Bases de datos locales
+*.db
+*.sqlite
+*.sqlite3
+
+# Archivos temporales
+.DS_Store
+Thumbs.db
